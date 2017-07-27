@@ -64,11 +64,15 @@
 
                 {{#wsj}}
                     <section class="post pure-g">
-                        
+
+                        {{#img}}
                         <div class="pure-u-1 pure-u-md-1-3">
                             <img src="img/{{img}}">
                         </div>
                         <div class="pure-u-1 pure-u-md-2-3">
+                        {{/img}}
+
+                        <div class="pure-u-1 pure-u-md-3-3">
                             <header class="post-header">
                                 <h2 class="post-title">
                                     <a href="{{link}}" target="_blank">{{name}}</a>
@@ -82,9 +86,6 @@
                                 </p>
                             </div>
                         </div>
-
-                        
-
                     </section>
 
                   

@@ -32,7 +32,7 @@ h3 {
 .header {
     text-align: center;
     top: auto;
-    margin: 3em auto;
+    margin: 2em auto;
 }
 
 img{
@@ -172,6 +172,9 @@ img{
     background: none;
 }
 
+
+
+
 @media (min-width: 48em) {
     .content {
         padding: 2em 3em 0;
@@ -179,7 +182,7 @@ img{
     }
 
     .header {
-        margin: 80% 1em 0;
+        margin: 80% 2em 0;
         text-align: right;
     }
 
@@ -192,4 +195,12 @@ img{
     .footer {
         text-align: center;
     }
+}
+
+@media (max-width: 20em) {
+    .header {
+        margin: 80% 1em 0;
+        text-align: right;
+    }
+
 }
