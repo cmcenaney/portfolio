@@ -10,32 +10,34 @@
     "date": "10/05/15",
     "name": "Activist Investor Report Card",
     "link": "http://graphics.wsj.com/activist-investor/",
-    "img" : "activist.png",
+    "img" : "activism.jpg",
     "org": "WSJ"
   },
   {
     "date": "04/19/17",
     "name": "Voices from the French Election",
     "link": "http://graphics.dev.wsj.com/voices-from-the-french-election/",
-    "img": "french.png",
     "org": "WSJ"
   },
   {
     "date": "06/03/15",
     "name": "Six Faces in the Race to Pump More Oil",
     "link": "http://graphics.wsj.com/global-oil-men/",
+    "img": "globaloil.png",
     "org": "WSJ"
   },
   {
     "date": "06/17/14",
     "name": "Spot the Ball",
     "link": "https://www.nytimes.com/interactive/projects/spot-the-ball/2014/06/17",
+    "img": "spottheball2.png",
     "org": "NYT"
   },
   {
     "date": "10/15/15",
     "name": "How International Students Are Changing U.S. Colleges",
     "link": "http://graphics.wsj.com/international-students/",
+    "img": "students.jpg",
     "org": "WSJ"
   },
   {
