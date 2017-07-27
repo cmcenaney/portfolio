@@ -7,7 +7,7 @@
 a {
     text-decoration: none;
     color: #de5a51;
-    font-family: "Futura";
+    font-family: "Futura", "Helvetica", sans-serif;
     font-weight: 400;
 }
 a:hover,
@@ -41,14 +41,14 @@ img{
 }
 
 .sidebar {
-    font-family: "Futura";
+    font-family: "Futura", "Helvetica", sans-serif;;
     background: #de5a51;
     color: #fff;
 }
 
 .brand-title{
     color: #fff;
-    font-family: "Futura"
+    font-family: "Futura", "Helvetica", sans-serif;
 }
 
 .brand-title,
@@ -179,7 +179,7 @@ img{
     }
 
     .header {
-        margin: 80% 2em 0;
+        margin: 80% 1em 0;
         text-align: right;
     }
 
