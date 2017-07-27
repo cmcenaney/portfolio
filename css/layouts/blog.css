@@ -6,7 +6,9 @@
 
 a {
     text-decoration: none;
-    color: rgb(61, 146, 201);
+    color: #de5a51;
+    font-family: "Futura";
+    font-weight: 400;
 }
 a:hover,
 a:focus {
@@ -33,9 +35,20 @@ h3 {
     margin: 3em auto;
 }
 
+img{
+    width: 100%;
+    padding-right: 2em;
+}
+
 .sidebar {
-    background: rgb(61, 79, 93);
+    font-family: "Futura";
+    background: #de5a51;
     color: #fff;
+}
+
+.brand-title{
+    color: #fff;
+    font-family: "Futura"
 }
 
 .brand-title,
@@ -47,8 +60,11 @@ h3 {
 }*/
 .brand-tagline {
     font-weight: 300;
-    color: rgb(176, 202, 219);
+   
+    color: #F2F1F1;
 }
+
+
 
 .nav-list {
     margin: 0;
@@ -61,9 +77,10 @@ h3 {
     zoom: 1;
 }
 .nav-item a {
+   
     background: transparent;
-    border: 2px solid rgb(176, 202, 219);
-    color: #fff;
+    border: 2px solid #F2F1F1;
+    color: #F2F1F1;
     margin-top: 1em;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -103,8 +120,8 @@ h3 {
     margin-left: 1em;
 }
 .post-description {
-    font-family: Georgia, "Cambria", serif;
     color: #444;
+    font-weight: 300;
     line-height: 1.8em;
 }
 .post-meta {

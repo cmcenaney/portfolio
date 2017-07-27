@@ -1,26 +1,23 @@
 [
   {
-    "date": "04/19/17",
-    "name": "Voices from the French Election",
-    "link": "http://graphics.dev.wsj.com/voices-from-the-french-election/",
-    "org": "WSJ"
-  },
-  {
-    "date": "03/23/16",
-    "name": "Tracking Investment by Sector",
-    "link": "http://graphics.wsj.com/venture-capital-deals/",
-    "org": "WSJ"
-  },
-  {
     "date": "03/29/17",
     "name": "Mind the Gap: The U.K.-EU Trade Challenge",
     "link": "https://www.wsj.com/graphics/uk-eu-trade/",
+    "img": "trade.png",
     "org": "WSJ"
   },
   {
     "date": "10/05/15",
     "name": "Activist Investor Report Card",
     "link": "http://graphics.wsj.com/activist-investor/",
+    "img" : "activist.png",
+    "org": "WSJ"
+  },
+  {
+    "date": "04/19/17",
+    "name": "Voices from the French Election",
+    "link": "http://graphics.dev.wsj.com/voices-from-the-french-election/",
+    "img": "french.png",
     "org": "WSJ"
   },
   {
@@ -42,14 +39,8 @@
     "org": "WSJ"
   },
   {
-    "date": "07/29/16",
-    "name": "European Bank Stress Tests 2016",
-    "link": "http://graphics.wsj.com/eba-stress-test-2016/",
-    "org": "WSJ"
-  },
-  {
     "date": "03/04/15",
-    "name": "Compass Center for Women and Families Resource Manual",
+    "name": "Resource Manual",
     "link": "http://colleenmcenaney.com/compass-resource-manual/",
     "org": "CC"
   },

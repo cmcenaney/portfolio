@@ -1,17 +1,5 @@
 [
   {
-    "date": "04/19/17",
-    "name": "Voices from the French Election",
-    "link": "http://graphics.dev.wsj.com/voices-from-the-french-election/",
-    "org": "WSJ"
-  },
-  {
-    "date": "03/23/16",
-    "name": "Tracking Investment by Sector",
-    "link": "http://graphics.wsj.com/venture-capital-deals/",
-    "org": "WSJ"
-  },
-  {
     "date": "03/29/17",
     "name": "Mind the Gap: The U.K.-EU Trade Challenge",
     "link": "https://www.wsj.com/graphics/uk-eu-trade/",
@@ -24,6 +12,19 @@
     "org": "WSJ"
   },
   {
+    "date": "04/19/17",
+    "name": "Voices from the French Election",
+    "link": "http://graphics.dev.wsj.com/voices-from-the-french-election/",
+    "org": "WSJ"
+  },
+  {
+    "date": "03/23/16",
+    "name": "Tracking Investment by Sector",
+    "link": "http://graphics.wsj.com/venture-capital-deals/",
+    "org": "WSJ"
+  },
+  
+  {
     "date": "06/17/14",
     "name": "Spot the Ball",
     "link": "https://www.nytimes.com/interactive/projects/spot-the-ball/2014/06/17",
@@ -33,18 +34,6 @@
     "date": "10/15/15",
     "name": "How International Students Are Changing U.S. Colleges",
     "link": "http://graphics.wsj.com/international-students/",
-    "org": "WSJ"
-  },
-  {
-    "date": "07/29/16",
-    "name": "European Bank Stress Tests 2016",
-    "link": "http://graphics.wsj.com/eba-stress-test-2016/",
-    "org": "WSJ"
-  },
-  {
-    "date": "04/27/17",
-    "name": "What the U.S. Trades with Mexico",
-    "link": "https://www.wsj.com/graphics/us-mexico-trade/",
     "org": "WSJ"
   }
 ]
