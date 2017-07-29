@@ -13,7 +13,7 @@
     "link": "http://graphics.wsj.com/activist-investor/",
     "img" : "activism.jpg",
     "org": "WSJ",
-    "desc": "We analyzed what happened at large U.S. companies that were targeted by activist invesors. I worked on the data analysis, visualizations and helped develop a tool for editors to update and change the page. Here's a look at <a href='https://www.wsj.com/articles/the-methodology-for-activist-investor-report-card-1444067991' target='_blank'>our methodology</a>."
+    "desc": "We analyzed what happened at large U.S. companies that were targeted by activist invesors. I worked on the data analysis, visualizations and helped develop a tool for editors to update the page. Here's a look at <a href='https://www.wsj.com/articles/the-methodology-for-activist-investor-report-card-1444067991' target='_blank'>our methodology</a>."
   },
   {
     "date": "04/19/17",
@@ -36,7 +36,7 @@
     "link": "https://www.nytimes.com/interactive/projects/spot-the-ball/2014/06/17",
     "img": "spottheball2.png",
     "org": "NYT",
-    "desc": "I worked on the front-end development and implemented the design for The New York Times' World Cup game."
+    "desc": "I worked on the front-end development and design implementation for The New York Times' World Cup game."
   },
   {
     "date": "10/15/15",
