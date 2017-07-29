@@ -4,52 +4,60 @@
     "name": "Mind the Gap: The U.K.-EU Trade Challenge",
     "link": "https://www.wsj.com/graphics/uk-eu-trade/",
     "img": "trade.png",
-    "org": "WSJ"
+    "org": "WSJ",
+    "desc": "The U.K. wants to negotiate a sweeping free-trade deal with the EU to replace its single-market membership after Brexit. I visualized the complex trade relationship between the two."
   },
   {
     "date": "10/05/15",
     "name": "Activist Investor Report Card",
     "link": "http://graphics.wsj.com/activist-investor/",
     "img" : "activism.jpg",
-    "org": "WSJ"
+    "org": "WSJ",
+    "desc": "We analyzed what happened at large U.S. companies that were targeted by activist invesors. I worked on the data analysis, visualizations and helped develop a tool for editors to update and change the page. Here's a look at <a href='https://www.wsj.com/articles/the-methodology-for-activist-investor-report-card-1444067991' target='_blank'>our methodology</a>."
   },
   {
     "date": "04/19/17",
     "name": "Voices from the French Election",
-    "link": "http://graphics.dev.wsj.com/voices-from-the-french-election/",
-    "org": "WSJ"
+    "link": "http://www.wsj.com/graphics/voices-from-the-french-election/",
+    "org": "WSJ",
+    "desc": "I helped design and develop The Wall Street Journal's feature of French voters ahead of Macron's election."
   },
   {
     "date": "06/03/15",
     "name": "Six Faces in the Race to Pump More Oil",
     "link": "http://graphics.wsj.com/global-oil-men/",
     "img": "globaloil.png",
-    "org": "WSJ"
+    "org": "WSJ",
+    "desc": "Among the world's top producers, Russia, Iraq, Canada and China are pumping flat out. Take a look at some of the prominent people behind the boom."
   },
   {
     "date": "06/17/14",
     "name": "Spot the Ball",
     "link": "https://www.nytimes.com/interactive/projects/spot-the-ball/2014/06/17",
     "img": "spottheball2.png",
-    "org": "NYT"
+    "org": "NYT",
+    "desc": "I worked on the front-end development and implemented the design for The New York Times' World Cup game."
   },
   {
     "date": "10/15/15",
     "name": "How International Students Are Changing U.S. Colleges",
     "link": "http://graphics.wsj.com/international-students/",
     "img": "students.jpg",
-    "org": "WSJ"
+    "org": "WSJ",
+    "desc": "The number of international students attending U.S. universities has increased dramatically in recent years. I worked with our investigative team to show how the change has affected individual states and schools."
   },
   {
     "date": "03/04/15",
     "name": "Resource Manual",
     "link": "http://colleenmcenaney.com/compass-resource-manual/",
-    "org": "CC"
+    "org": "CC",
+    "desc": "I created a public, searchable resource manual from an existing internal set of Google sheets that had been maintained by volunteers and staff. My goal was to make a manual that fit within their current workflow and didn't require additional training to use."
   },
   {
     "date": "04/27/17",
     "name": "What the U.S. Trades with Mexico",
     "link": "https://www.wsj.com/graphics/us-mexico-trade/",
-    "org": "WSJ"
+    "org": "WSJ",
+    "desc": "Using my code base from the U.K.-EU trade project, I've created several other graphics that break down trade relationships between two countries."
   }
 ]
