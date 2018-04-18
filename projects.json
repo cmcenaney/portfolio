@@ -25,8 +25,25 @@
   },
   {
     "date": "03/29/17",
+    "name": "German Election: Live Results",
+    "link": "https://www.wsj.com/graphics/german-election-2017-live-results/",
+    "img": "german.jpg",
+    "org": "WSJ",
+    "desc": "I created live embeddable graphics for the German election. The charts had several different modes as we switched from projections, to interim results and finally to preliminary results. We used web sockets for immediate updates, no refresh required."
+  },
+  {
+    "date": "03/29/17",
+    "name": "ECB Meets, Euro Reacts",
+    "link": "https://www.wsj.com/graphics/ecb-meets-euro-reacts/",
+    "img": "ecb.jpg",
+    "org": "WSJ",
+    "desc": "This interactive automatically tracks euro movements live during European Central Bank meetings, archives the data when it's done tracking and adds a new line to the chart for context. Editors can choose which meetings to highlight and annotate."
+  },
+  {
+    "date": "03/29/17",
     "name": "The U.K.-EU Trade Challenge",
     "link": "https://www.wsj.com/graphics/uk-eu-trade/",
+    "img": "trade.jpg",
     "org": "WSJ",
     "desc": "The U.K. wants to negotiate a sweeping free-trade deal with the EU to replace its single-market membership after Brexit. I visualized the complex trade relationship between the two."
   },
@@ -42,6 +59,7 @@
     "date": "04/19/17",
     "name": "Voices from the French Election",
     "link": "http://www.wsj.com/graphics/voices-from-the-french-election/",
+    "img": "france.gif",
     "org": "WSJ",
     "desc": "I helped design and develop The Wall Street Journal's feature of French voters ahead of Macron's election."
   },
@@ -75,12 +93,5 @@
     "link": "http://colleenmcenaney.com/compass-resource-manual/",
     "org": "CC",
     "desc": "I created a public, searchable resource manual from an existing internal set of Google sheets that had been maintained by volunteers and staff. My goal was to make a manual that fit within their current workflow and didn't require additional training to use."
-  },
-  {
-    "date": "04/27/17",
-    "name": "What the U.S. Trades with Mexico",
-    "link": "https://www.wsj.com/graphics/us-mexico-trade/",
-    "org": "WSJ",
-    "desc": "Using my code base from the U.K.-EU trade project, I've created several other graphics that break down trade relationships between two countries."
   }
 ]
