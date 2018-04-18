@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: #de5a51;
+    color: #3D9970;
     font-family: "Futura", "Helvetica", sans-serif;
     font-weight: 400;
 }
@@ -42,7 +42,7 @@ img{
 
 .sidebar {
     font-family: "Futura", "Helvetica", sans-serif;;
-    background: #de5a51;
+    background: #3D9970;
     color: #fff;
 }
 
@@ -108,11 +108,13 @@ img{
 
 .post {
     padding-bottom: 2em;
+    margin-top: 1.5em;
 }
 .post-title {
     font-size: 2em;
     color: #222;
     margin-bottom: 0.2em;
+    margin-top: -5px;
 }
 .post-avatar {
     border-radius: 50px;

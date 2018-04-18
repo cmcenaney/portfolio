@@ -1,9 +1,32 @@
 [
   {
+    "date": "02/03/18",
+    "name": "Perceiving Yemen",
+    "link": "https://data4change.github.io/ypc/",
+    "org": "D4C",
+    "img": "d4c.png",
+    "desc": "I worked on a team of designers and developers to create this bilingual prototype as part of Data4Change's 2018 workshop in Beirut. We visualized Yemen Polling Center's survey data, and made the site available offline."
+  },
+  {
+    "date": "04/03/18",
+    "name": "Mind the Gender Pay Gap",
+    "link": "http://www.wsj.com/graphics/uk-pay-gap/",
+    "org": "WSJ",
+    "img": "paygap.jpg",
+    "desc": "The U.K. asked companies to disclose their gender-pay gap. The first-of-its-kind requirement opens a rare window into pay discrepancies at large firms."
+  },
+  {
+    "date": "01/08/18",
+    "name": "How a Migration Wave Drove Brexit and Why It Is Now Receding, in 8 Charts",
+    "link": "https://www.wsj.com/articles/how-a-migration-wave-drove-brexit-and-why-it-is-now-receding-in-8-charts-1515414601",
+    "img": "migration.jpg",
+    "org": "WSJ",
+    "desc": "We analyzed how migration drove the Brexit vote and the economic consequences for the U.K. now that many of those migrants are leaving."
+  },
+  {
     "date": "03/29/17",
-    "name": "Mind the Gap: The U.K.-EU Trade Challenge",
+    "name": "The U.K.-EU Trade Challenge",
     "link": "https://www.wsj.com/graphics/uk-eu-trade/",
-    "img": "trade.png",
     "org": "WSJ",
     "desc": "The U.K. wants to negotiate a sweeping free-trade deal with the EU to replace its single-market membership after Brexit. I visualized the complex trade relationship between the two."
   },
