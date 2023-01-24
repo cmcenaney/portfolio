@@ -1,6 +1,38 @@
 [
   {
     "date": "02/03/18",
+    "name": "Process Explainers",
+    "link": "https://www.nytimes.com/2023/01/23/us/politics/kevin-mccarthy-marjorie-taylor-greene.html",
+    "org": "NYT",
+    "img": "nytmodule.png",
+    "desc": "As a member of the Trust team, I implemented a tool that enables editors to create journalistic process explainers to provide context within news stories. I also upgraded an application to enable automatic insertion of these explainers into stories based on specific keywords and phrases."
+  },
+  {
+    "date": "02/03/18",
+    "name": "Behind the Journalism",
+    "link": "https://www.nytimes.com/explain/2022/new-york-times-journalism",
+    "org": "NYT",
+    "img": "nytbehind.png",
+    "desc": "I coded a new design for our Behind the Journalism landing page which provides information on the Times' policies and processes."
+  },
+  {
+    "date": "02/03/18",
+    "name": "60 Decibels",
+    "link": "https://app.60decibels.com/",
+    "org": "SD",
+    "img": "sixtydb.png",
+    "desc": "I helped build and launch a new social impact measurement platform serving clients on five continents. The application allows clients to create their own surveys using our question modules, access impact reports, communicate with our team and benchmark their performance among peers."
+  },
+  {
+    "date": "02/03/18",
+    "name": "Listening in the time of COVID-19",
+    "link": "https://app.60decibels.com/covid-19",
+    "org": "SD",
+    "img": "sixtydbcovid.png",
+    "desc": "We spoke to 25,000 people in 19 countries about how Covid-19 has affected their lives. I built a fully self-serve platform in three weeks to scale service team work and enable them to produce new public and private dashboards. This system is being expanded to support data products for all clients."
+  },
+  {
+    "date": "02/03/18",
     "name": "Perceiving Yemen",
     "link": "https://data4change.github.io/ypc/",
     "org": "D4C",

@@ -6,13 +6,19 @@
 
 a {
     text-decoration: none;
-    color: #3D9970;
-    font-family: "Futura", "Helvetica", sans-serif;
+    /* color: #E7473C; */
+    color: black;
     font-weight: 400;
 }
 a:hover,
 a:focus {
     text-decoration: underline;
+}
+
+body {
+    background-color: #F0F0F0;
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 h3 {
@@ -41,14 +47,16 @@ img{
 }
 
 .sidebar {
-    font-family: "Futura", "Helvetica", sans-serif;;
-    background: #3D9970;
-    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 2em 0;
+    /* background: #E7473C;
+    color: #fff; */
 }
 
 .brand-title{
-    color: #fff;
-    font-family: "Futura", "Helvetica", sans-serif;
+    /* color: #fff; */
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: "Futura", "Helvetica", sans-serif; */
 }
 
 .brand-title,
@@ -60,8 +68,10 @@ img{
 }*/
 .brand-tagline {
     font-weight: 300;
+    margin-top: 10px;
+    color: #444;
    
-    color: #F2F1F1;
+    /* color: #F2F1F1; */
 }
 
 
@@ -79,8 +89,9 @@ img{
 .nav-item a {
    
     background: transparent;
-    border: 2px solid #F2F1F1;
-    color: #F2F1F1;
+    /* border: 2px solid #F2F1F1; */
+    border: 2px solid #444;
+    color: #444;
     margin-top: 1em;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -89,13 +100,14 @@ img{
 .nav-item a:hover,
 .nav-item a:focus {
     /*border: 2px solid rgb(61, 146, 201);*/
-    text-decoration: none;
+    text-decoration: underline;
+    background: #e8e8e8;
 }
 
 .content-subhead {
     text-transform: uppercase;
     color: #aaa;
-    border-bottom: 1px solid #eee;
+    border-bottom: 0.5px solid #aaa;
     padding: 0.4em 0;
     font-size: 80%;
     font-weight: 500;
@@ -103,7 +115,9 @@ img{
 }
 
 .content {
-    padding: 2em 1em 0;
+    padding: 0 2em 0;
+    max-width: 960px;
+    margin: 0 auto;
 }
 
 .post {
@@ -111,10 +125,11 @@ img{
     margin-top: 1.5em;
 }
 .post-title {
-    font-size: 2em;
+    font-size: 1.5em;
     color: #222;
-    margin-bottom: 0.2em;
+    margin-bottom: -0.2em;
     margin-top: -5px;
+    font-family: 'Montserrat', sans-serif;
 }
 .post-avatar {
     border-radius: 50px;
@@ -166,7 +181,7 @@ img{
     padding: 1em 0;
 }
 .footer a {
-    color: #ccc;
+    color: #444;
     font-size: 80%;
 }
 .footer .pure-menu a:hover,
@@ -176,34 +191,23 @@ img{
 
 
 
-
-@media (min-width: 48em) {
-    .content {
-        padding: 2em 3em 0;
-        margin-left: 32%;
-    }
-
-    .header {
-        margin: 80% 2em 0;
-        text-align: right;
-    }
-
-    .sidebar {
-        position: fixed;
-        top: 0;
-        bottom: 0;
-        width: 35%;
-    }
-
-    .footer {
-        text-align: center;
-    }
+.pure-menu ul {
+    text-align: center;
+    margin: 0 auto;
 }
 
-@media (max-width: 20em) {
-    .header {
-        margin: 20px 1em 20px;
-        text-align: left;
+
+@media (max-width: 567px) {
+
+    img {
+        padding-right: 0px;
     }
 
+    .post-title {
+        margin-top: 15px;
+    }
+
+    .pure-menu ul {
+        padding-left: 0px;
+    }
 }

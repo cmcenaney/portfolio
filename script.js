@@ -7,8 +7,9 @@ $(document).ready(function(){
 		var wsj = _.filter(data, function(d) { return d.org == 'WSJ' });
 		var nyt = _.filter(data, function(d) { return d.org == 'NYT' });
 		var cc = _.filter(data, function(d) { return d.org == 'CC'});
+		var sd = _.filter(data, function(d) { return d.org == 'SD'});
 
-		var projects = {"d4c": d4c, "wsj": wsj, "nyt": nyt, "cc": cc};
+		var projects = {"sd": sd, "d4c": d4c, "wsj": wsj, "nyt": nyt, "cc": cc};
 
 		console.log(projects)
 
